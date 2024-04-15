@@ -11,5 +11,7 @@ I integrated some plugins and modified some configuration files to make this web
 * A clean and simple layout.
 * Syntax highlighting for code snippets.
 * A blog section that shows my technical blogs.
+* It can be easily customized with custom CSS and JavaScript.
+
 
 I hope you will like it. If you have any questions or suggestions, please let me know.
