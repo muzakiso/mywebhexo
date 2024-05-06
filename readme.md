@@ -11,25 +11,7 @@ I integrated some plugins and modified some configuration files to make this web
 * A clean and simple layout.
 * Syntax highlighting for code snippets.
 * A blog section that shows my technical blogs.
-* It can be easily customized with custom CSS and JavaScript.
-
-
-I hope you will like it. If you have any questions or suggestions, please let me know.
-## Installation
-1. Clone the repository:
-```bash
-git clone this repository
-```
-2. Install the dependencies:
-```bash
-npm install
-```
-3. Start the server:
-```bash
-npm run server
-```
 4. Open http://localhost:4000 in your browser to view the website.
 
 ## Customization
-You can customize the website by modifying the following files:
 * `_config.yml`: The main configuration file.
