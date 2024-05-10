@@ -15,3 +15,5 @@ I integrated some plugins and modified some configuration files to make this web
 
 ## Customization
 * `_config.yml`: The main configuration file.
+* `source/_posts`: The directory for blog posts.
+* `source/_data`: The directory for data files.
