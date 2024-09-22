@@ -17,3 +17,4 @@ I integrated some plugins and modified some configuration files to make this web
 * `_config.yml`: The main configuration file.
 * `source/_posts`: The directory for blog posts.
 * add some things about the naviate
+all prosolve
